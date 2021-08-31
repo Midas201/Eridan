@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F1302101.xsd">
+ <DECLARHEAD>
+  <TIN>2662201878</TIN>
+  <C_DOC>F13</C_DOC>
+  <C_DOC_SUB>021</C_DOC_SUB>
+  <C_DOC_VER>1</C_DOC_VER>
+  <C_DOC_TYPE>0</C_DOC_TYPE>
+  <C_DOC_CNT>2</C_DOC_CNT>
+  <C_REG>09</C_REG>
+  <C_RAJ>15</C_RAJ>
+  <PERIOD_MONTH>6</PERIOD_MONTH>
+  <PERIOD_TYPE>1</PERIOD_TYPE>
+  <PERIOD_YEAR>2020</PERIOD_YEAR>
+  <C_DOC_STAN>1</C_DOC_STAN>
+  <D_FILL>10062020</D_FILL>
+  <SOFTWARE>ФриЗвит 6.4.26.1</SOFTWARE>
+ </DECLARHEAD>
+ <DECLARBODY>
+  <HSTI>ГОЛОВНЕ УПРАВЛIННЯ ДПС В IВАНО-ФРАНКIВСЬКIЙ ОБЛАСТI, IВАНО-ФРАНКIВСЬКЕ УПРАВЛIННЯ, IВАНО-ФРАНКIВСЬКА ДПI (М.IВАНО-ФРАНКIВСЬК)</HSTI>
+  <HTIN>2662201878</HTIN>
+  <HNAME>Мельницький Роман Васильович</HNAME>
+  <HLOC>IВАНО-ФРАНКIВСЬКА ОБЛ., М. ІВАНО-ФРАНКІВСЬК, ВУЛ. МАЛАНЮКА, БУД. 12, КВ. 1</HLOC>
+  <R04G1>1</R04G1>
+  <HBOS>Р. В. Мельницький</HBOS>
+  <HFILL>10062020</HFILL>
+ </DECLARBODY>
+</DECLAR>

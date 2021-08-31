@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F0103404.xsd">
+    <DECLARHEAD>
+        <TIN>3113024340</TIN>
+        <C_DOC>F01</C_DOC>
+        <C_DOC_SUB>034</C_DOC_SUB>
+        <C_DOC_VER>4</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>1</C_DOC_CNT>
+        <C_REG>9</C_REG>
+        <C_RAJ>15</C_RAJ>
+        <PERIOD_MONTH>12</PERIOD_MONTH>
+        <PERIOD_TYPE>5</PERIOD_TYPE>
+        <PERIOD_YEAR>2018</PERIOD_YEAR>
+        <C_STI_ORIG>915</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>04022019</D_FILL>
+        <SOFTWARE>CABINET 0.4.1</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HZ>1</HZ>
+<HZY>2018</HZY>
+<HSTI>0915 ГОЛОВНЕ УПРАВЛIННЯ ДФС В IВАНО-ФРАНКIВСЬКIЙ ОБЛАСТI, IВАНО-ФРАНКIВСЬКЕ УПРАВЛIННЯ, IВАНО-ФРАНКIВСЬКА ДПI (М.IВАНО-ФРАНКIВСЬК)</HSTI>
+<HNAME>МАТЮШЕВСЬКА ОКСАНА ВАСИЛІВНА</HNAME>
+<HLOC>76018, IВАНО-ФРАНКIВСЬКА ОБЛ., 76018, ІВАНО-ФРАНКІВСЬКА ОБЛ., МІСТО ІВАНО-ФРАНКІВСЬК, ВУЛИЦЯ СТЕПАНА БАНДЕРИ, БУДИНОК 62, КОРПУС 2, КВАРТИРА 29</HLOC>
+<HTIN>3113024340</HTIN>
+<HNACTL>0</HNACTL>
+<T1RXXXXG1S ROWNUM="1">14.14</T1RXXXXG1S>
+<T1RXXXXG2S ROWNUM="1">Виробництво спiднього одягу</T1RXXXXG2S>
+<R02G1>528.60</R02G1>
+<R02G2>528.60</R02G2>
+<R001G3>285260.00</R001G3>
+<R03G3>2233.80</R03G3>
+<R03G4>2233.80</R03G4>
+<R003G3>8552.00</R003G3>
+<R008G3>293812.00</R008G3>
+<T2RXXXXG2S ROWNUM="1" xsi:nil="true"/>
+<HFILL>04022019</HFILL>
+<HBOS>О. В. МАТЮШЕВСЬКА</HBOS>
+</DECLARBODY>
+</DECLAR>

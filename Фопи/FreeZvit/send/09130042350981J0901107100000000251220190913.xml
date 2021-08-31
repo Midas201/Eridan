@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J0901107.xsd">
+ <DECLARHEAD>
+  <TIN>42350981</TIN>
+  <C_DOC>J09</C_DOC>
+  <C_DOC_SUB>011</C_DOC_SUB>
+  <C_DOC_VER>7</C_DOC_VER>
+  <C_DOC_TYPE>0</C_DOC_TYPE>
+  <C_DOC_CNT>2</C_DOC_CNT>
+  <C_REG>09</C_REG>
+  <C_RAJ>13</C_RAJ>
+  <PERIOD_MONTH>12</PERIOD_MONTH>
+  <PERIOD_TYPE>5</PERIOD_TYPE>
+  <PERIOD_YEAR>2019</PERIOD_YEAR>
+  <C_STI_ORIG>913</C_STI_ORIG>
+  <C_DOC_STAN>1</C_DOC_STAN>
+  <LINKED_DOCS xsi:nil="true"/>
+  <D_FILL>20012020</D_FILL>
+  <SOFTWARE>ФриЗвит 5.12.19.0</SOFTWARE>
+ </DECLARHEAD>
+ <DECLARBODY>
+  <HFILL>20012020</HFILL>
+  <HNAME>ТзОВ "Ерідан-ІФ"</HNAME>
+  <HTIN>42350981</HTIN>
+  <HKOATUU_S>С. ЗАГВІЗДЯ</HKOATUU_S>
+  <HKOATUU>2625881101</HKOATUU>
+  <HKOPFG_S>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ</HKOPFG_S>
+  <HKOPFG>240</HKOPFG>
+  <HKVED_S>Будівництво інших споруд, н.в.і.у.</HKVED_S>
+  <HKVED>42.99</HKVED>
+  <HKIL>2</HKIL>
+  <HLOC>ІВАНО-ФРАНКІВСЬКА ОБЛ., ТИСМЕНИЦЬКИЙ  Р-Н, С. ЗАГВІЗДЯ, ВУЛ. НЕЗАЛЕЖНОСТІ, БУД. 8</HLOC>
+  <HTEL>0972322568</HTEL>
+  <HPERIOD>31.12</HPERIOD>
+  <HZY>2019</HZY>
+  <A1000G3 xsi:nil="true"></A1000G3>
+  <A1000G4 xsi:nil="true"></A1000G4>
+  <A1001G3 xsi:nil="true"></A1001G3>
+  <A1001G4 xsi:nil="true"></A1001G4>
+  <A1002G3 xsi:nil="true"></A1002G3>
+  <A1002G4 xsi:nil="true"></A1002G4>
+  <R1005G3 xsi:nil="true"></R1005G3>
+  <R1005G4 xsi:nil="true"></R1005G4>
+  <R1010G3 xsi:nil="true"></R1010G3>
+  <R1010G4>14.0</R1010G4>
+  <R1011G3 xsi:nil="true"></R1011G3>
+  <R1011G4>14.0</R1011G4>
+  <R1012G3 xsi:nil="true"></R1012G3>
+  <R1012G4 xsi:nil="true"></R1012G4>
+  <R1020G3 xsi:nil="true"></R1020G3>
+  <R1020G4 xsi:nil="true"></R1020G4>
+  <R1030G3 xsi:nil="true"></R1030G3>
+  <R1030G4 xsi:nil="true"></R1030G4>
+  <R1090G3 xsi:nil="true"></R1090G3>
+  <R1090G4 xsi:nil="true"></R1090G4>
+  <R1095G3>0.0</R1095G3>
+  <R1095G4>14.0</R1095G4>
+  <R1100G3 xsi:nil="true"></R1100G3>
+  <R1100G4 xsi:nil="true"></R1100G4>
+  <R1103G3 xsi:nil="true"></R1103G3>
+  <R1103G4 xsi:nil="true"></R1103G4>
+  <R1110G3 xsi:nil="true"></R1110G3>
+  <R1110G4 xsi:nil="true"></R1110G4>
+  <R1125G3>250.0</R1125G3>
+  <R1125G4>1467.9</R1125G4>
+  <R1135G3>0.3</R1135G3>
+  <R1135G4 xsi:nil="true"></R1135G4>
+  <R1136G3 xsi:nil="true"></R1136G3>
+  <R1136G4 xsi:nil="true"></R1136G4>
+  <R1155G3>0.3</R1155G3>
+  <R1155G4>269.6</R1155G4>
+  <R1160G3 xsi:nil="true"></R1160G3>
+  <R1160G4 xsi:nil="true"></R1160G4>
+  <R1165G3 xsi:nil="true"></R1165G3>
+  <R1165G4>150.3</R1165G4>
+  <R1170G3 xsi:nil="true"></R1170G3>
+  <R1170G4 xsi:nil="true"></R1170G4>
+  <R1190G3 xsi:nil="true"></R1190G3>
+  <R1190G4 xsi:nil="true"></R1190G4>
+  <R1195G3>250.6</R1195G3>
+  <R1195G4>1887.8</R1195G4>
+  <R1200G3 xsi:nil="true"></R1200G3>
+  <R1200G4 xsi:nil="true"></R1200G4>
+  <R1300G3>250.6</R1300G3>
+  <R1300G4>1901.8</R1300G4>
+  <R1400G3 xsi:nil="true"></R1400G3>
+  <R1400G4>0.1</R1400G4>
+  <R1410G3 xsi:nil="true"></R1410G3>
+  <R1410G4 xsi:nil="true"></R1410G4>
+  <R1415G3 xsi:nil="true"></R1415G3>
+  <R1415G4 xsi:nil="true"></R1415G4>
+  <R1420G3>249.3</R1420G3>
+  <R1420G4>1078.0</R1420G4>
+  <R1425G3 xsi:nil="true"></R1425G3>
+  <R1425G4 xsi:nil="true"></R1425G4>
+  <R1495G3>249.3</R1495G3>
+  <R1495G4>1078.1</R1495G4>
+  <R1595G3 xsi:nil="true"></R1595G3>
+  <R1595G4 xsi:nil="true"></R1595G4>
+  <R1600G3 xsi:nil="true"></R1600G3>
+  <R1600G4 xsi:nil="true"></R1600G4>
+  <R1610G3 xsi:nil="true"></R1610G3>
+  <R1610G4 xsi:nil="true"></R1610G4>
+  <R1615G3 xsi:nil="true"></R1615G3>
+  <R1615G4>771.5</R1615G4>
+  <R1620G3 xsi:nil="true"></R1620G3>
+  <R1620G4>44.5</R1620G4>
+  <R1621G3 xsi:nil="true"></R1621G3>
+  <R1621G4 xsi:nil="true"></R1621G4>
+  <R1625G3 xsi:nil="true"></R1625G3>
+  <R1625G4>2.0</R1625G4>
+  <R1630G3 xsi:nil="true"></R1630G3>
+  <R1630G4>5.7</R1630G4>
+  <R1665G3 xsi:nil="true"></R1665G3>
+  <R1665G4 xsi:nil="true"></R1665G4>
+  <R1690G3>1.3</R1690G3>
+  <R1690G4 xsi:nil="true"></R1690G4>
+  <R1695G3>1.3</R1695G3>
+  <R1695G4>823.7</R1695G4>
+  <R1700G3 xsi:nil="true"></R1700G3>
+  <R1700G4 xsi:nil="true"></R1700G4>
+  <R1900G3>250.6</R1900G3>
+  <R1900G4>1901.8</R1900G4>
+  <HPERIOD1>Рік</HPERIOD1>
+  <HZY1>2019</HZY1>
+  <R2000G3>2437.8</R2000G3>
+  <R2000G4>250.0</R2000G4>
+  <R2120G3>20.4</R2120G3>
+  <R2120G4 xsi:nil="true"></R2120G4>
+  <R2240G3 xsi:nil="true"></R2240G3>
+  <R2240G4 xsi:nil="true"></R2240G4>
+  <R2280G3>2458.2</R2280G3>
+  <R2280G4>250.0</R2280G4>
+  <R2050G3>1172.9</R2050G3>
+  <R2050G4 xsi:nil="true"></R2050G4>
+  <R2180G3>460.0</R2180G3>
+  <R2180G4>0.7</R2180G4>
+  <R2270G3 xsi:nil="true"></R2270G3>
+  <R2270G4 xsi:nil="true"></R2270G4>
+  <R2285G3>1632.9</R2285G3>
+  <R2285G4>0.7</R2285G4>
+  <R2290G3>825.3</R2290G3>
+  <R2290G4>249.3</R2290G4>
+  <R2300G3 xsi:nil="true"></R2300G3>
+  <R2300G4 xsi:nil="true"></R2300G4>
+  <R2350G3>825.3</R2350G3>
+  <R2350G4>249.3</R2350G4>
+  <HBOS>Т. А. Сорочан</HBOS>
+  <HBUH xsi:nil="true"></HBUH>
+ </DECLARBODY>
+</DECLAR>

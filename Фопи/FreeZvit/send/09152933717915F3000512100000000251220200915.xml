@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F3000512.xsd">
+ <DECLARHEAD>
+  <TIN>2933717915</TIN>
+  <C_DOC>F30</C_DOC>
+  <C_DOC_SUB>005</C_DOC_SUB>
+  <C_DOC_VER>12</C_DOC_VER>
+  <C_DOC_TYPE>0</C_DOC_TYPE>
+  <C_DOC_CNT>2</C_DOC_CNT>
+  <C_REG>09</C_REG>
+  <C_RAJ>15</C_RAJ>
+  <PERIOD_MONTH>12</PERIOD_MONTH>
+  <PERIOD_TYPE>5</PERIOD_TYPE>
+  <PERIOD_YEAR>2020</PERIOD_YEAR>
+  <C_STI_ORIG>915</C_STI_ORIG>
+  <C_DOC_STAN>1</C_DOC_STAN>
+  <LINKED_DOCS>
+    <DOC TYPE="1" NUM="1"><C_DOC>F30</C_DOC><C_DOC_SUB>501</C_DOC_SUB><C_DOC_VER>12</C_DOC_VER><C_DOC_TYPE>0</C_DOC_TYPE><C_DOC_CNT>2</C_DOC_CNT><C_DOC_STAN>1</C_DOC_STAN><FILENAME>09152933717915F3050112100000000251220200915.XML</FILENAME></DOC>
+  </LINKED_DOCS>
+  <D_FILL>08022021</D_FILL>
+  <SOFTWARE>ФриЗвит 6.10.7.1</SOFTWARE>
+ </DECLARHEAD>
+ <DECLARBODY>
+  <HZY>2020</HZY>
+    <HTIN>2933717915</HTIN>
+    <HNAME>КУЄВДА АНДРІЙ ВАЛЕРІЙОВИЧ</HNAME>
+    <HLOC>76000, IВАНО-ФРАНКIВСЬКА ОБЛ., М. ІВАНО-ФРАНКІВСЬК, ВУЛ. ВОВЧИНЕЦЬКА, БУД. 178, КВ. 31</HLOC>
+    <HTEL xsi:nil="true"></HTEL>
+    <HKSTI>915</HKSTI>
+    <HKVED>31.01</HKVED>
+    <R05G1D xsi:nil="true"></R05G1D>
+    <M062>1</M062>
+    <R062G1D>01092020</R062G1D>
+    <R062G2D>31122020</R062G2D>
+  <HZB>1</HZB>
+    <R001G3>1</R001G3>
+    <R002G3 xsi:nil="true"></R002G3>
+    <HBOS>А. В. КУЄВДА</HBOS>
+    <HFILL>08022021</HFILL>
+ </DECLARBODY>
+</DECLAR>

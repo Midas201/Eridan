@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F0510106.XSD">
+  <DECLARHEAD>
+    <TIN>3051013503</TIN>
+    <C_DOC>F05</C_DOC>
+    <C_DOC_SUB>101</C_DOC_SUB>
+    <C_DOC_VER>6</C_DOC_VER>
+    <C_DOC_TYPE>0</C_DOC_TYPE>
+    <C_DOC_CNT>3</C_DOC_CNT>
+    <C_REG>9</C_REG>
+    <C_RAJ>15</C_RAJ>
+    <PERIOD_MONTH>9</PERIOD_MONTH>
+    <PERIOD_TYPE>2</PERIOD_TYPE>
+    <PERIOD_YEAR>2021</PERIOD_YEAR>
+    <C_STI_ORIG>915</C_STI_ORIG>
+    <C_DOC_STAN>1</C_DOC_STAN>
+    <LINKED_DOCS>
+      <DOC NUM="1" TYPE="2">
+        <C_DOC>F05</C_DOC>
+        <C_DOC_SUB>001</C_DOC_SUB>
+        <C_DOC_VER>6</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>1</C_DOC_CNT>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <FILENAME>09153051013503F0500106100000000120920210915.XML</FILENAME>
+      </DOC>
+    </LINKED_DOCS>
+    <D_FILL>09082021</D_FILL>
+    <SOFTWARE>MEDOC</SOFTWARE>
+  </DECLARHEAD>
+  <DECLARBODY>
+    <HZY>2021</HZY>
+    <HZKV />
+    <HNM />
+    <HNUM1 />
+    <HNAME>Приватний нотаріус Підхомна Олександра Дмитрівна</HNAME>
+    <HDDGV xsi:nil="true" />
+    <HNDGV xsi:nil="true" />
+    <HTIN>3051013503</HTIN>
+    <R01G16 xsi:nil="true" />
+    <R01G17 xsi:nil="true" />
+    <R01G18 xsi:nil="true" />
+    <R01G19 xsi:nil="true" />
+    <R01G20 xsi:nil="true" />
+    <HFILL>09082021</HFILL>
+    <HKBOS>3051013503</HKBOS>
+    <HBOS />
+    <HKBUH xsi:nil="true" />
+    <HBUH xsi:nil="true" />
+  </DECLARBODY>
+</DECLAR>
